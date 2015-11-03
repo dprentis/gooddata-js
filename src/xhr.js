@@ -234,4 +234,3 @@ export const post = xhrMethod('POST');
  * @method put
  */
 export const put = xhrMethod('PUT');
-
